@@ -5,8 +5,12 @@
 </h3>
 
 <p align="center">
+  Desenvolvendo aplicações web, sistemas de gestão e projetos pessoais com foco em soluções práticas.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-santos-a3a01832b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -14,23 +18,26 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Técnico em Desenvolvimento de Sistemas pelo SENAI CIMATEC**, com foco em desenvolvimento de software e aplicações web.
+Sou **Técnico em Desenvolvimento de Sistemas pelo SENAI CIMATEC**, com experiência acadêmica e em projetos pessoais voltados ao desenvolvimento de software e aplicações web.
 
-Atualmente busco minha primeira oportunidade profissional na área de desenvolvimento, onde possa aplicar meus conhecimentos, continuar evoluindo como desenvolvedor e participar da construção de soluções reais.
+Atualmente busco minha primeira oportunidade profissional como **Desenvolvedor de Software Júnior**, onde possa aplicar meus conhecimentos, ganhar experiência em projetos reais e continuar evoluindo profissionalmente.
 
-- 💻 Foco em **desenvolvimento web**
+Minha principal área de interesse é o **desenvolvimento web**, trabalhando tanto na construção de interfaces quanto na lógica e estrutura das aplicações.
+
+- 💻 Foco em **desenvolvimento web e sistemas**
 - ⚙️ Experiência com **JavaScript, Node.js e Express**
 - 🗄️ Conhecimentos em **SQL e Supabase**
-- 🎨 Desenvolvimento de interfaces com **HTML, CSS e Bootstrap**
+- 🎨 Desenvolvimento de interfaces utilizando **HTML, CSS e Bootstrap**
 - 🔧 Utilizo **Git e GitHub** para versionamento e organização dos projetos
-- 🎓 Pretendo cursar Engenharia de Software
-- 🚀 Sempre buscando desenvolver projetos e aprender novas tecnologias
+- 📚 Também possuo conhecimentos em **Java e C**
+- 🎓 Pretendo cursar **Engenharia de Software**
+- 🚀 Interesse em **sistemas de gestão, automação, inteligência artificial e novas tecnologias**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Linguagens
+### 💻 Principais Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -48,43 +55,133 @@ Atualmente busco minha primeira oportunidade profissional na área de desenvolvi
 ### 🗄️ Banco de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### 🎨 Frontend e Ferramentas
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### 📚 Outros Conhecimentos
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-Estou organizando e documentando meus principais projetos para disponibilizá-los aqui no GitHub.
+Aqui estão alguns dos principais projetos que representam minha evolução e meus interesses como desenvolvedor.
 
-Entre eles:
+### 🔧 MecSys — Sistema de Gestão para Oficinas
 
-- 🔧 **MecSys** — Sistema de gerenciamento para oficinas
+Sistema desenvolvido com o objetivo de auxiliar na **organização e gerenciamento de oficinas**, centralizando informações importantes do funcionamento do negócio.
 
-Em breve, os repositórios estarão disponíveis com documentação completa, imagens e instruções de execução.
+O projeto trabalha com conceitos de sistemas de gestão e foi pensado para facilitar processos como organização de serviços, agendamentos e ordens de serviço.
+
+**Principais pontos do projeto:**
+
+- 📋 Organização e gerenciamento de serviços
+- 📅 Controle de agendamentos
+- 🛠️ Gerenciamento de ordens de serviço
+- 💻 Interface voltada para utilização em ambiente web
+- 🗄️ Estrutura preparada para utilização de banco de dados
+
+**Tecnologias utilizadas / planejadas no projeto:**
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `SQL`
+
+> 🔒 O código completo do projeto pode permanecer privado devido à natureza e aos planos futuros do sistema.
 
 ---
 
-## 🎯 Objetivos
+### 🤖 Projeto Shiro — Ecossistema Pessoal de IA
 
-Busco uma oportunidade como **Desenvolvedor de Software Júnior**, especialmente em desenvolvimento web, onde eu possa contribuir com projetos reais enquanto continuo aprimorando meus conhecimentos em desenvolvimento de software e arquitetura de sistemas.
+O **Projeto Shiro** é um projeto pessoal de longo prazo atualmente em desenvolvimento.
+
+A proposta é construir um **ecossistema de inteligência artificial distribuído entre diferentes dispositivos**, permitindo que computadores, notebooks, servidores e dispositivos móveis trabalhem de forma integrada.
+
+O projeto possui uma abordagem **local-first**, priorizando controle dos dados, integração entre dispositivos e execução de diferentes tarefas através de uma única estrutura.
+
+**Alguns dos objetivos do projeto incluem:**
+
+- 🧠 Integração de diferentes recursos de inteligência artificial
+- 🖥️ Comunicação entre múltiplos computadores e dispositivos
+- 📱 Integração entre desktop e dispositivos móveis
+- 🗃️ Organização e gerenciamento de dados pessoais
+- ⚙️ Automação de tarefas e serviços
+- 🔐 Priorização de processamento e armazenamento local quando possível
+- 🔄 Construção de uma arquitetura modular e expansível
+
+**Status:** 🚧 Em desenvolvimento
+
+> 🔒 O Projeto Shiro é atualmente um projeto privado. Sua arquitetura e funcionalidades estão sendo desenvolvidas progressivamente.
 
 ---
 
-## 📫 Contato
+## 📚 Atualmente
+
+Atualmente estou focado em:
+
+- 🚀 Evoluir meus conhecimentos em **desenvolvimento de software**
+- ⚙️ Aprimorar meus conhecimentos em **backend com Node.js e Express**
+- 🗄️ Aprofundar meus conhecimentos em **bancos de dados**
+- 🧱 Melhorar a organização e arquitetura dos meus projetos
+- 🤖 Explorar desenvolvimento e integração de **inteligência artificial**
+- 🎓 Me preparar para iniciar a graduação em **Engenharia de Software**
+- 💼 Buscar minha primeira oportunidade profissional na área de desenvolvimento
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade como **Desenvolvedor de Software Júnior**, especialmente na área de desenvolvimento web.
+
+Meu objetivo é participar de projetos reais, desenvolver minhas habilidades técnicas, aprender com profissionais mais experientes e contribuir para a criação de soluções úteis e bem estruturadas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=RodrigoCSant0s&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+  />
+
+  <img 
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCSant0s&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+  />
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Estou aberto a **oportunidades profissionais, projetos, colaboração e troca de conhecimento sobre tecnologia e desenvolvimento de software**.
 
 <p>
   <a href="https://www.linkedin.com/in/rodrigo-santos-a3a01832b/">
     <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  Desenvolvido por <strong>Rodrigo Santos</strong> 💜
 </p>
