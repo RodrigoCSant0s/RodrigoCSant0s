@@ -157,14 +157,21 @@ Meu objetivo é participar de projetos reais, desenvolver minhas habilidades té
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=RodrigoCSant0s&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoCSant0s&theme=tokyonight"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoCSant0s&theme=tokyonight"
+    height="180"
   />
 
-  <img 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCSant0s&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoCSant0s&theme=tokyonight"
+    height="180"
   />
 </p>
 
