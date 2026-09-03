@@ -153,27 +153,26 @@ Busco uma oportunidade como **Desenvolvedor de Software Júnior**, especialmente
 Meu objetivo é participar de projetos reais, desenvolver minhas habilidades técnicas, aprender com profissionais mais experientes e contribuir para a criação de soluções úteis e bem estruturadas.
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoCSant0s&theme=tokyonight"
     width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoCSant0s&name=Rodrigo%20Santos&theme=github_dark&bg_color=0D0714&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&chart_color=A855F7"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoCSant0s&theme=tokyonight"
-    height="180"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoCSant0s&theme=github_dark&bg_color=0D0714&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&chart_color=A855F7"
   />
-
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoCSant0s&theme=tokyonight"
-    height="180"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoCSant0s&theme=github_dark&utcOffset=-3&bg_color=0D0714&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=6D28D9&chart_color=A855F7"
   />
 </p>
+
 
 ---
 
