@@ -70,8 +70,6 @@ Estou organizando e documentando meus principais projetos para disponibilizá-lo
 Entre eles:
 
 - 🔧 **MecSys** — Sistema de gerenciamento para oficinas
-- ♻️ **EcoTrack** — Sistema voltado ao gerenciamento de resíduos
-- 🛠️ **Espaço Maker** — Sistema de gerenciamento e reservas de espaços
 
 Em breve, os repositórios estarão disponíveis com documentação completa, imagens e instruções de execução.
 
