@@ -23,7 +23,7 @@ Atualmente busco minha primeira oportunidade profissional na área de desenvolvi
 - 🗄️ Conhecimentos em **SQL e Supabase**
 - 🎨 Desenvolvimento de interfaces com **HTML, CSS e Bootstrap**
 - 🔧 Utilizo **Git e GitHub** para versionamento e organização dos projetos
-- 🎓 Próximo passo acadêmico: **Engenharia de Software**
+- 🎓 Pretendo cursar Engenharia de Software
 - 🚀 Sempre buscando desenvolver projetos e aprender novas tecnologias
 
 ---
